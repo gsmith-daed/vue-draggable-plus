@@ -19,7 +19,7 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "importsNotUsedAsValues": "error",
-    "lib": ["esnext", "dom"],
+    "lib": ["esnext", "dom", "dom.iterable"],
     "types": [],
     "skipLibCheck": true,
     "emitDeclarationOnly": true,
