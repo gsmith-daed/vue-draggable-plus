@@ -4,7 +4,6 @@
 .temp
 *.log
 components.d.ts
-dist
 node_modules
 coverage
 .eslintcache
